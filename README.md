@@ -1,68 +1,49 @@
-# AtliQ Grand Hospitality Dashboard
+# Hotel Revenue Insights (Power BI)
 
-Welcome to the AtliQ Grand Hospitality Dashboard project! This project was created to provide insightful data analysis for AtliQ Grand, a luxury hotel chain facing revenue challenges in India's competitive hospitality market. Using Power BI and a comprehensive dataset, the dashboard provides crucial insights for strategic decision-making.
+## 📊 Overview
 
-## Project Overview
+This project presents an end-to-end hospitality analytics solution built using Power BI. It focuses on analyzing hotel revenue, occupancy trends, and booking performance to generate actionable business insights.
 
-AtliQ Grand, a renowned luxury hotel chain, has been struggling with revenue and market share due to increased competition and ineffective management decisions. The objective of this project was to leverage data analytics to regain market share and boost revenue in the luxury/business hotels category.
+## 🎯 Objective
 
-## Data Sources
+To help stakeholders understand key performance metrics such as revenue, occupancy rate, and booking behavior, enabling data-driven decision-making in the hospitality sector.
 
-The dataset includes the following tables:
-- `dim_date`
-- `dim_hotels`
-- `dim_rooms`
-- `fact_bookings`
-- `fact_aggregated_bookings`
+## 🛠 Tools & Technologies
 
-## Tools and Techniques
+* Power BI (Data Visualization)
+* DAX (Calculated Measures)
+* SQL (Data Analysis)
+* Excel/CSV (Data Source)
 
-### Tools Used
-- **Power BI**
-- **Excel**
+## 🧩 Data Model
 
-### Techniques Used
-- Data modeling
-- Data cleaning in Power Query
-- DAX measures and calculated columns
-- Building filter panes using bookmarks and selection
+The project follows a structured data model with fact and dimension tables:
 
-## Business Metrics
+* **fact_bookings**
+* **fact_aggregated_bookings**
+* **dim_date**
+* **dim_hotels**
+* **dim_rooms**
 
-The dashboard includes the following key business metrics:
-- **Revenue**
-- **Occupancy %**
-- **RevPAR (Revenue Per Available Room)**
-- **ADR (Average Daily Rate)**
-- **Realization %**
-- **Total Bookings**
-- **DBRN (Days Before Reservation Needed)**
-- **DSRN (Days Since Reservation Needed)**
-- **DURN (Duration of Stay)**
+## 📈 Key Metrics (KPIs)
 
-## Key Insights
+* Total Revenue
+* Occupancy Rate (%)
+* Average Daily Rate (ADR)
+* Revenue Per Available Room (RevPAR)
+* Cancellation Rate
 
-- **Platform Performance**: High bookings and revenue from platforms like "makeyourtrip".
-- **Room Class Distribution**: "Elite" and "Premium" room classes generate the most revenue.
-- **Occupancy and Conversion Rates**: Higher rates in cities like Mumbai and Bangalore.
-- **Cancellation and No-Show Rates**: High overall cancellation rate of 24.84%.
-- **Lead Time**: Majority of bookings happen within 1-7 days lead time.
-- **Revenue Trends and Losses**: Weekly revenue shows fluctuations, with notable revenue loss.
-- **Property Performance**: "AtliQ Exotica Mumbai" performs exceptionally well.
-- **Weekend vs. Weekday Performance**: Higher RevPAR and occupancy rates on weekends.
-- **Category-Based Revenue**: Significant revenue from Luxury category bookings.
-- **Customer Experience**: Average rating of 3.62 indicates room for improvement.
+## 📊 Dashboard Insights
 
-## Recommendations
+* Revenue trends across cities and time periods
+* Higher occupancy observed during weekends
+* Certain cities contribute significantly to total revenue
+* Booking cancellations impact overall profitability
 
-- **Boost Top Platforms**: Enhance partnerships with high-performing platforms.
-- **Promote Premium Rooms**: Focus marketing efforts on "Elite" and "Premium" room classes.
-- **Improve Conversion Rates**: Apply successful strategies from top-performing cities across other locations.
-- **Reduce Cancellations**: Implement stricter policies and offer incentives for non-cancellable bookings.
-- **Increase Early Bookings**: Develop strategies like early bird discounts to encourage advance bookings.
-- **Leverage Weekends**: Launch targeted promotions to capitalize on higher weekend occupancy.
-- **Enhance Customer Experience**: Improve guest services to boost ratings and attract more bookings.
-- **Focus on Business Hotels**: Prioritize investments in business hotels, which consistently generate higher revenue.
+## 📷 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
 
 ## Project Screenshots
 
@@ -75,6 +56,16 @@ The dashboard includes the following key business metrics:
 ### Bookings Dashboard
 ![Bookings Dashboard](img.png)
 
+## 🚀 Business Impact
+
+* Identifies high-performing cities and hotels
+* Helps optimize pricing and occupancy strategies
+* Supports better forecasting and decision-making
+
+## 📌 Conclusion
+
+This project demonstrates how Power BI can be leveraged to transform raw hospitality data into meaningful insights that drive business performance.
+
 ## Acknowledgements
 
 This dataset and project are part of the Codebasics Resume Challenge 1. Thanks to Codebasics for this incredible opportunity!
@@ -82,9 +73,13 @@ This dataset and project are part of the Codebasics Resume Challenge 1. Thanks t
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiY2M0NGQ2OTAtMjBjMi00NzNjLWE0M2YtNzQ2NTUwYmMzZmMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## 👨‍💻 Author
+
+Ayush Upadhyay
+
 ## Contact
 
-For any questions or feedback, please contact [Ashutosh Jaiswal] at [jaiswal.ashutoshj@gmail.com].
+For any questions or feedback, please contact [Ayush Upadhyay] at [ayushup345@gmail.com].
 
 ---
 
