@@ -1,10 +1,7 @@
 # 🔗 Power BI Dashboard Access
 
-## 📊 Live Dashboard
-
-You can explore the interactive Power BI dashboard using the link below:
-
-👉 https://app.powerbi.com/view?r=eyJrIjoiY2M0NGQ2OTAtMjBjMi00NzNjLWE0M2YtNzQ2NTUwYmMzZmMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## 📊 (Live Dashboard)
+[ https://app.powerbi.com/view?r=eyJrIjoiY2M0NGQ2OTAtMjBjMi00NzNjLWE0M2YtNzQ2NTUwYmMzZmMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ---
 
