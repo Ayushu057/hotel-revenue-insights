@@ -42,11 +42,6 @@ The project follows a structured data model with fact and dimension tables:
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
-
-## Project Screenshots
-
 ### Overall Dashboard
 ![Overall Dashboard](img1.png)
 
